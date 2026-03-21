@@ -80,9 +80,7 @@ Nanni's complaint tablet (BM 131236, British Museum) remains the oldest known wr
 
 The [Dozenal Society of America](http://www.dozenal.org) (founded 1944) and the [Dozenal Society of Great Britain](https://www.dozenalsociety.org.uk/) (founded 1959) have been advocating base-12 for decades. They publish journals, host conferences, and maintain a quiet dignity in the face of a world that insists on counting in tens because of fingers.
 
-This ALU is for them. Eighty years of advocacy, and finally someone made the hardware. The carry propagates at 12. The complement is 11 minus the digit. The maths is native. No conversion to decimal and back. Pure dozenal arithmetic at 100 MHz.
-
-To the Dozenal Society: you were right. Here are your transistors.
+This ALU is for them. Eighty years of advocacy, and finally someone made the hardware. The carry propagates at 12, The complement is 11 minus the digit. The maths is native. No conversion to decimal and back. Pure dozenal arithmetic at 100 MHz.
 
 ## He Who Saw The Deep
 
