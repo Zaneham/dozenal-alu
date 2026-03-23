@@ -85,6 +85,10 @@ Nanni's complaint tablet (BM 131236, British Museum) remains the oldest known wr
 
 *(To Ea-nasir, merchant of Dilmun: the copper interconnects in this cell library have been independently verified and are NOT sourced from your warehouse. We have learned from Nanni's mistake. The ingots are fine. The dopant levels are correct. Please stop sending messengers to dispute our quality metrics. This is a chip, not your complaints department.)*
 
+## Built With
+
+Synthesised using [Takahe](https://github.com/Zaneham/takahe), an open-source SystemVerilog/VHDL synthesiser. Placed via [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD).
+
 ## License
 
 Apache 2.0. The Sumerian number system is 5,000 years old and in the public domain. The implementation is original. The opinions about the French revolutionary calendar are the author's own but are also objectively correct.
